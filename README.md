@@ -5,7 +5,7 @@ Computer Systems Engineering Student at Carleton University
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
 
 Network
-[![LinkedIn](www.linkedin.com/in/noah-hamed-4436973a2)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-hamed/)
 
 Skills
 |  |  |
