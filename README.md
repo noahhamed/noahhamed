@@ -1,5 +1,5 @@
-🏴‍☠️ Ahoy, Code Crusaders! I am Noah, a
-Computer Systems Engineering Student at Carleton University
+##🏴‍☠️ Ahoy, Code Crusaders! I am Noah 
+    A Computer Systems Engineering Student at Carleton University
 💻 Passionate about Tech and Hardware.
 🏛️ Engrossed in building personal projects.
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
