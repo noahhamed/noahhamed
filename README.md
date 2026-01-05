@@ -20,8 +20,4 @@ Skills
 | Tools  | [![tool](https://skillicons.dev/icons?i=autocad,git,github,&perline=5)]()  |
 
 
-<!-- https://github.com/tandpfun/skill-icons -->
-<!---
-Jalalmourad/Jalalmourad is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
