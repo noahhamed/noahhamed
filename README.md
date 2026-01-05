@@ -4,7 +4,8 @@
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
 
 <p align="center">
-  <img src="ghost_spin_locked_final2.gif" width="200" />
+  ![ghost_spin_locked_final](https://github.com/user-attachments/assets/414b4c78-8514-4051-9e23-a18ea71228ae)
+
 </p>
 
 Network
