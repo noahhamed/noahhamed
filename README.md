@@ -4,7 +4,7 @@
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/414b4c78-8514-4051-9e23-a18ea71228ae" width="140" />
+  <img src="https://github.com/user-attachments/assets/414b4c78-8514-4051-9e23-a18ea71228ae" width="100" />
 </p>
 
 Network 
