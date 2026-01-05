@@ -7,7 +7,8 @@
   <img src="https://github.com/user-attachments/assets/414b4c78-8514-4051-9e23-a18ea71228ae" width="140" />
 </p>
 
-Network [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-hamed-4436973a2/)
+Network 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-hamed-4436973a2/)
 
 Skills
 |  |  |
