@@ -4,10 +4,9 @@
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/414b4c78-8514-4051-9e23-a18ea71228ae" width="140" />
+  <img src="YOUR_GIF_URL" width="120" />
 </p>
-
-Network 
+### Network
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-hamed-4436973a2/)
 
 Skills
