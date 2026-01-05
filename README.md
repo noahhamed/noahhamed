@@ -3,6 +3,10 @@
 🏛️ Engrossed in building personal projects.
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
 
+<p align="center">
+  <img src="ghost_spin_locked_final2.gif" width="200" />
+</p>
+
 Network
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-hamed-4436973a2/)
 
