@@ -17,7 +17,7 @@ Skills
 | Front Dev  | [![FrontDev](https://skillicons.dev/icons?i=js,html,css,bootstrap,&perline=5)]()  |
 | SysOps  | [![sys](https://skillicons.dev/icons?i=linux,bash,powershell,maven,ubuntu&perline=5)]()  |
 | IDE  | [![IDEs](https://skillicons.dev/icons?i=vscode,idea,pycharm&perline=5)]()  |
-| Tools  | [![tool](https://skillicons.dev/icons?i=autocad,git,github,jenkins,&perline=5)]()  |
+| Tools  | [![tool](https://skillicons.dev/icons?i=autocad,git,github,raspberrypi,jenkins,&perline=5)]()  |
 | Machine Learning | [![ML](https://skillicons.dev/icons?i=tensorflow,sklearn&perline=5)]() |
 
 
